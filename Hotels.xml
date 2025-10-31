@@ -26,7 +26,7 @@
     </Address>
   </Hotel>
 
-  <Hotel Rating ="4.0">
+  <Hotel>
     <Name>Graduate Tempe</Name>
     <Phone>480-967-9431</Phone>
     <Address>
@@ -38,8 +38,8 @@
     </Address>
   </Hotel>
 
-  <Hotel Rating="4.1">
-    <Name>Hyatt Place Tempe / Phoenix Airport</Name>
+  <Hotel>
+    <Name>Hyatt Place Tempe/Phoenix Airport</Name>
     <Phone>480-804-9544</Phone>
     <Address NearestAirport="Sky Harbor">
       <Number>1413</Number>
@@ -50,7 +50,7 @@
     </Address>
   </Hotel>
 
-  <Hotel Rating="4.0">
+  <Hotel>
     <Name>Courtyard by Marriott Tempe Downtown</Name>
     <Phone>480-966-2800</Phone>
     <Address NearestAirport="Sky Harbor">
@@ -87,7 +87,7 @@
     </Address>
   </Hotel>
 
-  <Hotel Rating="4.3">
+  <Hotel>
     <Name>Canopy by Hilton Tempe Downtown</Name>
     <Phone>602-612-7872</Phone>
     <Address>
@@ -111,7 +111,7 @@
     </Address>
   </Hotel>
 
-  <Hotel Rating="4.2">
+  <Hotel>
     <Name>Moxy Phoenix Tempe/ASU Area</Name>
     <Phone>480-337-2850</Phone>
     <Address>
