@@ -26,7 +26,7 @@
     </Address>
   </Hotel>
 
-  <Hotel>
+  <Hotel Rating ="4.0">
     <Name>Graduate Tempe</Name>
     <Phone>480-967-9431</Phone>
     <Address>
@@ -62,7 +62,7 @@
     </Address>
   </Hotel>
 
-  <Hotel>
+  <Hotel Rating="4.1">
     <Name>AC Hotel Phoenix Tempe/Downtown</Name>
     <Phone>480-642-6140</Phone>
     <Phone>888-236-2427</Phone>
@@ -87,7 +87,7 @@
     </Address>
   </Hotel>
 
-  <Hotel>
+  <Hotel Rating="4.3">
     <Name>Canopy by Hilton Tempe Downtown</Name>
     <Phone>602-612-7872</Phone>
     <Address>
@@ -111,7 +111,7 @@
     </Address>
   </Hotel>
 
-  <Hotel>
+  <Hotel Rating="4.2">
     <Name>Moxy Phoenix Tempe/ASU Area</Name>
     <Phone>480-337-2850</Phone>
     <Address>
